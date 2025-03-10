@@ -237,18 +237,41 @@ plt.show()
 
 1.Create brighter and darker images and display:
 
-![image](https://github.com/user-attachments/assets/f3d0d3c8-ec57-4e26-a465-6ffda3013a4c)
+![Screenshot 2025-03-10 094618](https://github.com/user-attachments/assets/a64bfda7-b4a3-4b47-8b00-2880bc3dea30)
+
+
+![Screenshot 2025-03-10 094624](https://github.com/user-attachments/assets/99fec07e-10bf-4bd1-a530-2985edd61bfa)
+
+
+![Screenshot 2025-03-10 094631](https://github.com/user-attachments/assets/50109811-afce-49ca-b939-0c3e2e9f8daf)
+
+
 
 - ### *iii)* Modify Image Contrast.  
 1. Modify contrast using scaling factors 1.1 and 1.2:
 
-![image](https://github.com/user-attachments/assets/6b62e423-7f57-444e-bf5b-c739da8cdd43)
+
+![Screenshot 2025-03-10 094639](https://github.com/user-attachments/assets/404f07bc-e693-46b4-870c-c0812f0f97fc)
+
+
+![Screenshot 2025-03-10 094645](https://github.com/user-attachments/assets/2499a704-53e6-4e4e-9429-33fd1b974e64)
+
+
+![Screenshot 2025-03-10 094652](https://github.com/user-attachments/assets/e3083a7f-a5b3-475c-b32c-171322b2f1c3)
+
+
 
 - ### *iv)* Generate Third Image Using Bitwise Operations.
 
 1.Split 'Boy.jpg' into B, G, R components and display:
 
-![image](https://github.com/user-attachments/assets/377fdfc6-4567-475c-a7e9-0b3508b685c2)
+![Screenshot 2025-03-10 094701](https://github.com/user-attachments/assets/cd10bc84-8816-4796-b5ce-6721784d547d)
+
+
+![Screenshot 2025-03-10 094708](https://github.com/user-attachments/assets/49ee7f4d-34e1-4fb0-9feb-d747f5afe72d)
+
+
+![Screenshot 2025-03-10 094714](https://github.com/user-attachments/assets/bbfebc8a-ef4b-46ad-b27a-26a146ac6022)
 
 2.Merge the R, G, B channels and display:
 
@@ -256,7 +279,13 @@ plt.show()
 
 3.Split the image into H, S, V components and display:
 
-![image](https://github.com/user-attachments/assets/636cfcda-8dc0-4354-97d5-23a71adaa1ac)
+![Screenshot 2025-03-10 094722](https://github.com/user-attachments/assets/8b2e96a7-5113-46dc-bd92-e189df089329)
+
+
+![Screenshot 2025-03-10 094729](https://github.com/user-attachments/assets/2cf3a861-8b11-4860-a97d-ef7cadef3edf)
+
+
+![Screenshot 2025-03-10 094734](https://github.com/user-attachments/assets/4b4ce94f-a080-4bcd-a296-4fc1e713acbc)
 
 
 4.Merge the H, S, V channels and display:
